@@ -1,0 +1,56 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-buton{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel{
+    padding: 40px 60px;
+    border-radius: 10px;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(to bottom, #FF9C35 0%, #FFD019 100%);
+}
+.carousel-indicators li{
+    height: 8px;
+    weight: 20px;
+    border-radius: 8px;
+    border: 0;
+    opacity: 1;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.area-img{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    
+}
+.single-img{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.cat{
+    text-align: center;
+    text-decoration: underline orange;
+    text-decoration-thickness: auto;
+    position: center;
+}
+.see{
+    height: 100px;
+    color: orange;
+    font-weight: 700;
+    
+}
+.see:hover{
+    color: orangered;
+    text-decoration: none;
+}
